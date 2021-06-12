@@ -19,6 +19,7 @@ Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
+[website_analytics_piwik](website_analytics_piwik/) | 14.0.1.0.0 | Add Piwik tracking code in Website
 [website_google_tag_manager](website_google_tag_manager/) | 14.0.1.0.0 | Add support for Google Tag Manager
 [website_legal_page](website_legal_page/) | 14.0.1.0.0 | Website Legal Page
 [website_odoo_debranding](website_odoo_debranding/) | 14.0.1.0.0 | Remove Odoo Branding from Website
